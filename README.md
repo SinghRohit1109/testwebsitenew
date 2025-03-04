@@ -1,2 +1,2 @@
 # Portfolio
-Link: https://SinghRohit1109.github.io/testwebsitenew/
+Link: https://singhrohit1109.github.io/testwebsitenew/
